@@ -1,0 +1,19 @@
+{
+  "name": "cleanzone-resources",
+  "version": "1.0.0",
+  "description": "Extra resources for Clean Zone - Admin Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxythemes/cleanzone-resources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxythemes/cleanzone-resources/issues"
+  },
+  "homepage": "https://github.com/foxythemes/cleanzone-resources#readme"
+}
